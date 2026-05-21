@@ -138,20 +138,23 @@ bash
 
 pip install -r requirements.txt
 streamlit run app.py
-📦 Requirements
-streamlit
-numpy
-pandas
-plotly
+
+---
+
+# 📦 Requirements
+-streamlit
+- numpy
+- pandas
+- plotly
 
 🌐 Deployment
 
 Deployable via:
 
-Render
-Streamlit Cloud
+-Render
+-Streamlit Cloud
 
-Start command:
+$ Start command:
 
 streamlit run app.py --server.port $PORT --server.address 0.0.0.0
 📌 Project Type Classification
