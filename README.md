@@ -190,5 +190,5 @@ Deployable via:
 
 # 👤 Author
 
-ERDAL ERDOGAN goodman
-Data Science / Quantitative Analytics Project
+ERDAL ERDOGAN (goodman)
+- This is a Data Science / Quantitative Analytics Project.
