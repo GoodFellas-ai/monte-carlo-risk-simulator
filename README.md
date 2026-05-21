@@ -132,13 +132,12 @@ The system produces:
 
 ---
 
-## 🚀 How to Run Locally
+## 🚀 Installation
 
-bash
-
+```bash
 pip install -r requirements.txt
 streamlit run app.py
-
+```
 ---
 
 # 📦 Requirements
@@ -167,6 +166,7 @@ streamlit run app.py --server.port $PORT --server.address 0.0.0.0
 ❌ No training / inference pipeline
 
 ## 🧠 Key Learning Outcomes
+
 Monte Carlo simulation techniques
 Uncertainty modeling
 Risk quantification
