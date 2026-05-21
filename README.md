@@ -4,7 +4,7 @@ A probabilistic data science application that models future portfolio outcomes u
 It’s a Monte Carlo simulation engine for portfolio growth under stochastic returns.
 I simulate thousands of paths using normally distributed returns, aggregate the outcome distribution, and extract risk metrics like expected return, confidence intervals, and probability of upside scenarios.
 The key idea is shifting from point forecasting to distributional thinking under uncertainty.
-
+> This project demonstrates simulation-based decision modeling under uncertainty rather than predictive machine learning.
 ---
 
 ## 🎯 Project Objective
@@ -141,37 +141,42 @@ streamlit run app.py
 ---
 
 # 📦 Requirements
--streamlit
+
+- streamlit
 - numpy
 - pandas
 - plotly
 
-🌐 Deployment
+# 🌐 Deployment
 
 Deployable via:
 
 -Render
 -Streamlit Cloud
 
-$ Start command:
+# Start command:
 
-streamlit run app.py --server.port $PORT --server.address 0.0.0.0
-📌 Project Type Classification
+```streamlit run app.py --server.port $PORT --server.address 0.0.0.0```
 
-✔ Data Science (probabilistic modeling)
-✔ Statistical simulation system
-✔ Financial risk analytics tool
+---
 
-❌ Not a machine learning model
-❌ No training / inference pipeline
+#📌📌 Project Type Classification
 
-## 🧠 Key Learning Outcomes
+-✔ Data Science (probabilistic modeling)
+-✔ Statistical simulation system
+-✔ Financial risk analytics tool
 
-Monte Carlo simulation techniques
-Uncertainty modeling
-Risk quantification
-Data visualization of stochastic systems
-Building interactive analytics applications
+-❌ Not a machine learning model
+-❌ No training / inference pipeline
+
+# 🧠 Key Learning Outcomes
+
+-Monte Carlo simulation techniques
+-Uncertainty modeling under stochastic processes
+-Risk quantification and scenario analysis
+-Time-series style data visualization
+-Building interactive analytics dashboards (Streamlit)
+-Translating mathematical models into applications
 
 
 
