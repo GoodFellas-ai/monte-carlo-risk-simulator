@@ -4,6 +4,7 @@
 ![Streamlit](https://shields.io)
 ![Render](https://shields.io)
 
+
 A probabilistic data science application that models future portfolio outcomes under uncertainty using Monte Carlo simulation techniques.
 It’s a Monte Carlo simulation engine for portfolio growth under stochastic returns.
 I simulate thousands of paths using normally distributed returns, aggregate the outcome distribution, and extract risk metrics like expected return, confidence intervals, and probability of upside scenarios.
