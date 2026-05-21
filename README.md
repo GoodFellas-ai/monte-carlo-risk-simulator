@@ -113,15 +113,15 @@ This creates a stochastic growth process over time.
 ## 🏗️ System Architecture
 
 
-User Inputs (Scenario / Parameters)
+- User Inputs (Scenario / Parameters)
 ↓
-Monte Carlo Simulation Engine
+- Monte Carlo Simulation Engine
 ↓
-Stochastic Path Generation
+- Stochastic Path Generation
 ↓
-Statistical Aggregation Layer
+- Statistical Aggregation Layer
 ↓
-Visualization Dashboard (Streamlit)
+- Visualization Dashboard (Streamlit)
 
 
 ---
