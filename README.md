@@ -53,26 +53,25 @@ This project answers:
 - Tail risk analysis
 
 ---
-
-
-## 🧮 Mathematical Model
+🧮 Mathematical Model
 
 Each step of the simulation follows:
 
- $$
- P_t = P_{t-1} \times (1 + r_t)
+$$
+P_t = P_{t-1} \times (1 + r_t)
 $$
 
 Where:
 
- $$
+$$
 r_t \sim \mathcal{N}(\mu, \sigma)
 $$
 
 - \( P_t \): Portfolio value at time \( t \)  
+- \( P_{t-1} \): Previous portfolio value  
 - \( r_t \): Random return at time \( t \)  
 - \( \mu \): Mean return  
-- \( \sigma \): Volatility (risk)
+- \( \sigma \): Volatility (risk parameter)  
 
 This creates a stochastic growth process over time.
 
