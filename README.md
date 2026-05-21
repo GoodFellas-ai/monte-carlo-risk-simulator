@@ -5,7 +5,7 @@ It’s a Monte Carlo simulation engine for portfolio growth under stochastic ret
 I simulate thousands of paths using normally distributed returns, aggregate the outcome distribution, and extract risk metrics like expected return, confidence intervals, and probability of upside scenarios.
 The key idea is shifting from point forecasting to distributional thinking under uncertainty.
 
-“We assume normally distributed returns as a tractable first-order approximation of aggregate market noise, despite known limitations such as fat tails and extreme event underestimation.”
+- “We assume normally distributed returns as a tractable first-order approximation of aggregate market noise, despite known limitations such as fat tails and extreme event underestimation.”
 > This project demonstrates simulation-based decision modeling under uncertainty rather than predictive machine learning.
 ---
 
