@@ -15,6 +15,11 @@ Instead of producing a single prediction, the system generates a **distribution 
 
 The goal is to demonstrate **probabilistic thinking**, not deterministic prediction.
 
+---
+
+# 🌐 Live Demo
+
+https://monte-carlo-risk-simulator.onrender.com/
 
 ---
 
@@ -166,11 +171,9 @@ Data visualization of stochastic systems
 Building interactive analytics applications
 
 
-🌐 Live Demo
 
-https://monte-carlo-risk-simulator.onrender.com/
 ---
 
 👤 Author
-
+ERDAL ERDOGAN goodman
 Data Science / Quantitative Analytics Project
