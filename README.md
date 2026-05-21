@@ -55,13 +55,13 @@ This project answers:
 
 Each step of the simulation follows:
 
-# $$
+ $$
  P_t = P_{t-1} \times (1 + r_t)
 $$
 
 Where:
 
-# $$
+ $$
 r_t \sim \mathcal{N}(\mu, \sigma)
 $$
 
