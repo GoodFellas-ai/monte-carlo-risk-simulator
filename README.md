@@ -53,7 +53,8 @@ This project answers:
 - Tail risk analysis
 
 ---
-🧮 Mathematical Model
+
+# 🧮 Mathematical Model
 
 Each step of the simulation follows:
 
