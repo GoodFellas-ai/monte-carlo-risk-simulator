@@ -1,6 +1,9 @@
  # 🎲📄 Monte Carlo Risk Simulator
 
 A probabilistic data science application that models future portfolio outcomes under uncertainty using Monte Carlo simulation techniques.
+It’s a Monte Carlo simulation engine for portfolio growth under stochastic returns.
+I simulate thousands of paths using normally distributed returns, aggregate the outcome distribution, and extract risk metrics like expected return, confidence intervals, and probability of upside scenarios.
+The key idea is shifting from point forecasting to distributional thinking under uncertainty.
 
 ---
 
@@ -11,6 +14,7 @@ This project simulates possible future outcomes of an investment portfolio using
 Instead of producing a single prediction, the system generates a **distribution of possible outcomes**, enabling risk-aware decision making.
 
 The goal is to demonstrate **probabilistic thinking**, not deterministic prediction.
+
 
 ---
 
