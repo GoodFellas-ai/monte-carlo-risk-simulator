@@ -151,8 +151,8 @@ streamlit run app.py
 
 Deployable via:
 
--Render
--Streamlit Cloud
+- Render
+- Streamlit Cloud
 
 # Start command:
 
@@ -162,26 +162,27 @@ Deployable via:
 
 #📌📌 Project Type Classification
 
--✔ Data Science (probabilistic modeling)
--✔ Statistical simulation system
--✔ Financial risk analytics tool
+- ✔ Data Science (probabilistic modeling)
+- ✔ Statistical simulation system
+- ✔ Financial risk analytics tool
 
--❌ Not a machine learning model
--❌ No training / inference pipeline
+- ❌ Not a machine learning model
+- ❌ No training / inference pipeline
 
 # 🧠 Key Learning Outcomes
 
--Monte Carlo simulation techniques
--Uncertainty modeling under stochastic processes
--Risk quantification and scenario analysis
--Time-series style data visualization
--Building interactive analytics dashboards (Streamlit)
--Translating mathematical models into applications
+- Monte Carlo simulation techniques
+- Uncertainty modeling under stochastic processes
+- Risk quantification and scenario analysis
+- Time-series style data visualization
+- Building interactive analytics dashboards (Streamlit)
+- Translating mathematical models into applications
 
 
 
 ---
 
-👤 Author
+# 👤 Author
+
 ERDAL ERDOGAN goodman
 Data Science / Quantitative Analytics Project
