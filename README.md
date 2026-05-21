@@ -50,17 +50,25 @@ This project answers:
 
 ---
 
+
 ## 🧮 Mathematical Model
 
 Each step of the simulation follows:
 
-
-Portfolio(t) = Portfolio(t-1) × (1 + r)
-
+$$
+P_t = P_{t-1} \times (1 + r_t)
+$$
 
 Where:
 
-- r ~ Normal(mean_return, volatility)
+$$
+r_t \sim \mathcal{N}(\mu, \sigma)
+$$
+
+- \( P_t \): Portfolio value at time \( t \)  
+- \( r_t \): Random return at time \( t \)  
+- \( \mu \): Mean return  
+- \( \sigma \): Volatility (risk)
 
 This creates a stochastic growth process over time.
 
