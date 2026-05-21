@@ -1,4 +1,4 @@
-﻿📄 # 🎲 Monte Carlo Risk Simulator
+ # 🎲📄 Monte Carlo Risk Simulator
 
 A probabilistic data science application that models future portfolio outcomes under uncertainty using Monte Carlo simulation techniques.
 
