@@ -173,7 +173,7 @@ Deployable via:
 
 ---
 
-#📌 Project Type Classification
+# 📌 Project Type Classification
 
 - ✔ Data Science (probabilistic modeling)
 - ✔ Statistical simulation system
