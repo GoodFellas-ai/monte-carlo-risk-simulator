@@ -158,6 +158,8 @@ streamlit run app.py
 - pandas
 - plotly
 
+---
+
 # 🌐 Deployment
 
 Deployable via:
@@ -171,7 +173,7 @@ Deployable via:
 
 ---
 
-#📌📌 Project Type Classification
+#📌 Project Type Classification
 
 - ✔ Data Science (probabilistic modeling)
 - ✔ Statistical simulation system
