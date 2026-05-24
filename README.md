@@ -4,7 +4,7 @@
 
 ![Python](https://shields.io)
 ![Streamlit](https://shields.io)
-[Render](https://shields.io)
+![Render](https://shields.io)
 
 
 A probabilistic data science application that models future portfolio outcomes under uncertainty using Monte Carlo simulation techniques.
@@ -148,6 +148,7 @@ The system produces:
 ## 🚀 Installation
 
 ```bash
+
 pip install -r requirements.txt
 streamlit run app.py
 ```
@@ -184,6 +185,7 @@ Deployable via:
 - ❌ Not a machine learning model
 - ❌ No training / inference pipeline
 
+---
 # 🧠 Key Learning Outcomes
 
 - Monte Carlo simulation techniques
